@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/BookStore/BookStore/obj/Debug/netcoreapp3.1
+/BookStore/BookStore/obj/Release/netcoreapp3.1
+/BookStoreMVC/.vs/BookStoreMVC/v16
+/BookStoreMVC/BookStoreMVC/obj
